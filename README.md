@@ -26,7 +26,7 @@
   <section id="historia">
     <h2>Historia de la Bioética</h2>
     <p>La bioética moderna comenzó en la década de 1970, impulsada por el trabajo de Van Rensselaer Potter.</p>
-     <p>1971: Van Rensselaer Potter y la creación del término...</p>
+     <p>1971: Van Rensselaer Potter y la creación del término es importante para la humanidad y el avance tecnocientifico</p>
  
 
 <section class="section" id="personajes">
@@ -86,7 +86,5 @@
     <li><a href="#" style="color: white;">Ley sobre Eutanasia</a></li>
     <li><a href="#" style="color: white;">Convención sobre Biomedicina</a></li>
   </ul>
-</section>
- 
 
  
