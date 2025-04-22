@@ -4,7 +4,7 @@ Diagramación de la Página Web sobre Bioética
 1. Encabezado (Header)
 Logo: Ubicado en la parte superior izquierda, pequeño y simple, representando el tema de la bioética.
 Menú de Navegación: 
-A la derecha o al centro, con enlaces a las secciones principales de la página: 
+A la izquierda, con enlaces a las secciones principales de la página: 
 Inicio
 Definición de Bioética
 Marco Histórico
