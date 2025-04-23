@@ -1,6 +1,5 @@
 
  
- 
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -45,7 +44,6 @@
   </section>
 
  
-
 <section class="section" id="temas">
   <h2>Temas Principales</h2>
   <div class="card-container">
@@ -79,8 +77,8 @@
 <section class="section" id="normatividad">
   <h2>Normativas y Legislación</h2>
   <ul>
-    <li><a href="#" style="color: white;">Código Ético</a></li>
-    <li><a href="#" style="color: white;">Ley sobre Eutanasia</a></li>
+    <li><a href="#" style="color: red;">Código Ético</a></li>
+    <li><a href="#" style="color: blue;">Ley sobre Eutanasia</a></li>
     <li><a href="#" style="color: white;">Convención sobre Biomedicina</a></li>
   </ul>
 
